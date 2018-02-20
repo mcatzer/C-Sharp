@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\RunLengthEncoding\RunLengthEncoding\bin\Debug\RunLengthEncoding.exe.config
+D:\Visual Studio Projects\RunLengthEncoding\RunLengthEncoding\bin\Debug\RunLengthEncoding.exe
+D:\Visual Studio Projects\RunLengthEncoding\RunLengthEncoding\bin\Debug\RunLengthEncoding.pdb
+D:\Visual Studio Projects\RunLengthEncoding\RunLengthEncoding\obj\Debug\RunLengthEncoding.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\RunLengthEncoding\RunLengthEncoding\obj\Debug\RunLengthEncoding.exe
+D:\Visual Studio Projects\RunLengthEncoding\RunLengthEncoding\obj\Debug\RunLengthEncoding.pdb

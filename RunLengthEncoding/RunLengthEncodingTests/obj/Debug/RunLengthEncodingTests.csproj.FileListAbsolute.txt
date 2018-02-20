@@ -1,0 +1,8 @@
+D:\Visual Studio Projects\RunLengthEncoding\RunLengthEncodingTests\bin\Debug\RunLengthEncodingTests.dll
+D:\Visual Studio Projects\RunLengthEncoding\RunLengthEncodingTests\bin\Debug\RunLengthEncodingTests.pdb
+D:\Visual Studio Projects\RunLengthEncoding\RunLengthEncodingTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Visual Studio Projects\RunLengthEncoding\RunLengthEncodingTests\bin\Debug\RunLengthEncoding.exe
+D:\Visual Studio Projects\RunLengthEncoding\RunLengthEncodingTests\bin\Debug\RunLengthEncoding.pdb
+D:\Visual Studio Projects\RunLengthEncoding\RunLengthEncodingTests\obj\Debug\RunLengthEncodingTests.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\RunLengthEncoding\RunLengthEncodingTests\obj\Debug\RunLengthEncodingTests.dll
+D:\Visual Studio Projects\RunLengthEncoding\RunLengthEncodingTests\obj\Debug\RunLengthEncodingTests.pdb

@@ -1,0 +1,8 @@
+D:\Visual Studio Projects\BitCount\BitCountTests\bin\Debug\BitCountTests.dll
+D:\Visual Studio Projects\BitCount\BitCountTests\bin\Debug\BitCountTests.pdb
+D:\Visual Studio Projects\BitCount\BitCountTests\bin\Debug\BitCount.exe
+D:\Visual Studio Projects\BitCount\BitCountTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Visual Studio Projects\BitCount\BitCountTests\bin\Debug\BitCount.pdb
+D:\Visual Studio Projects\BitCount\BitCountTests\obj\Debug\BitCountTests.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\BitCount\BitCountTests\obj\Debug\BitCountTests.dll
+D:\Visual Studio Projects\BitCount\BitCountTests\obj\Debug\BitCountTests.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\BitCount\BitCount\bin\Debug\BitCount.exe.config
+D:\Visual Studio Projects\BitCount\BitCount\bin\Debug\BitCount.exe
+D:\Visual Studio Projects\BitCount\BitCount\bin\Debug\BitCount.pdb
+D:\Visual Studio Projects\BitCount\BitCount\obj\Debug\BitCount.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\BitCount\BitCount\obj\Debug\BitCount.exe
+D:\Visual Studio Projects\BitCount\BitCount\obj\Debug\BitCount.pdb
